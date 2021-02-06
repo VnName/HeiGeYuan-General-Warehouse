@@ -13,22 +13,25 @@ WEB相关文件存储在这里
    - 在`<head>`后边添加
 
      ```html
+     <!-- Cloudflare Web Analytics -->
+     <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8eb197ccf67d434cae4aaac2e41fd262"}'></script>
+     <!-- End Cloudflare Web Analytics -->
      <link rel="preload">
      <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/favicon/favicon.ico">
-     ```
+  ```
      
    - 修改title
-
+   
    - ```html
      /*修改*/
      <link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
      /*中的网址*/
      'https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet'
-     /*为*/
+  /*为*/
      'https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/css/1.css'
      ```
-
-   - ```
+   
+   - ```css
    	 /*修改*/
    	 @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
    	 /*中的网址*/
