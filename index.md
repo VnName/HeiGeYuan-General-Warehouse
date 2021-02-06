@@ -14,7 +14,7 @@ QQ群：1094463434
 
 ## VNの地图线路图
 
-![该图片出现问题，请联系乔瘦子处理](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/_img/theLatestVersion.jpg)
+[点击查看](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/_img/theLatestVersion.jpg)
 
 ## 如何安装整合包
 
