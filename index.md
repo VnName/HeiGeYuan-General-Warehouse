@@ -14,7 +14,7 @@ QQ群：1094463434
 
 ## VNの地图线路图
 
-[点击查看](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/_img/theLatestVersion.jpg)
+[点击查看](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/_img/V95.jpg)
 
 ## 如何安装整合包
 
@@ -40,7 +40,4 @@ QQ群：1094463434
 
 
 
-[Github仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)
-
 <div title="MySSL 安全签章" id="myssl_seal" onclick="window.open('https://myssl.com/seal/detail?domain=www.heigeyuan.com','MySSL安全签章','height=800,width=470,top=0,right=0,toolbar=no,menubar=no,scrollbars=no,resizable=no,location=no,status=no')" style="text-align: center"><img src="https://sealres.myssl.com/seal/img/1x/seal.png?domain=www.heigeyuan.com" alt="MySSL 安全签章" style="width: 100px; height: auto; cursor: pointer"></div>
-
